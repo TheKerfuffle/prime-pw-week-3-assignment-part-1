@@ -14,8 +14,6 @@ let favoriteFood = ['eggs', 'chicken', 'spinach'];
 //      to the example above
 console.log('My favorite foods are: ', favoriteFood);
 
-
-
 // 2. Array.length - tells you how many items are in the array
 console.log('--- 2. Length of an array ---');
 
